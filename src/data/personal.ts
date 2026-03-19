@@ -31,12 +31,12 @@ export const HOBBIES = [
   },
 ]
 
-// Placeholder photos — replace with real images later
+import photo1 from '../assets/photos/photo1.jpeg'
+import photo2 from '../assets/photos/photo2.jpeg'
+import photo3 from '../assets/photos/photo3.jpeg'
+
 export const PHOTOS = [
-  { src: 'https://placehold.co/600x600/F5F0E8/6B7280?text=Photo+1', alt: 'Photo 1' },
-  { src: 'https://placehold.co/600x600/F5F0E8/6B7280?text=Photo+2', alt: 'Photo 2' },
-  { src: 'https://placehold.co/600x600/F5F0E8/6B7280?text=Photo+3', alt: 'Photo 3' },
-  { src: 'https://placehold.co/600x600/F5F0E8/6B7280?text=Photo+4', alt: 'Photo 4' },
-  { src: 'https://placehold.co/600x600/F5F0E8/6B7280?text=Photo+5', alt: 'Photo 5' },
-  { src: 'https://placehold.co/600x600/F5F0E8/6B7280?text=Photo+6', alt: 'Photo 6' },
+  { src: photo1, alt: 'Photo 1' },
+  { src: photo2, alt: 'Photo 2' },
+  { src: photo3, alt: 'Photo 3' },
 ]
