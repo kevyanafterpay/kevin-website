@@ -30,7 +30,7 @@ export default function Footer() {
           <Mail size={18} />
         </a>
       </div>
-      <p>© {new Date().getFullYear()} Kevin Yan. Built with React.</p>
+      <p>© {new Date().getFullYear()} Kevin Yan</p>
     </footer>
   )
 }

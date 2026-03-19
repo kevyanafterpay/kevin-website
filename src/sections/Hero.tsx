@@ -14,19 +14,9 @@ export default function Hero() {
           I'm Qi Yan (Kevin Yan).
         </h1>
         <p className="text-xl md:text-2xl text-muted dark:text-gray-400 max-w-2xl mb-10 leading-relaxed">
-          Senior Software Engineer building reliable systems — from cloud infrastructure
-          to React frontends. Based in Melbourne, Australia.
+          Senior Software Engineer building reliable, scalable systems — with a focus on AI and intelligent automation. Based in Melbourne, Australia.
         </p>
         <div className="flex items-center gap-4">
-          <a
-            href="https://github.com/kevyanafterpay"
-            target="_blank"
-            rel="noreferrer"
-            aria-label="GitHub"
-            className="p-3 rounded-full border border-border dark:border-gray-700 hover:border-accent hover:text-accent text-muted dark:text-gray-400 transition-colors"
-          >
-            <Github size={22} />
-          </a>
           <a
             href="https://www.linkedin.com/in/kevin--yan/"
             target="_blank"
